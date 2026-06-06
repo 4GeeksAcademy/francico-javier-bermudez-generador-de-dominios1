@@ -1,0 +1,13 @@
+.h1 {
+     background-color: rgb(12, 153, 171);
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    text-align: center;
+    gap:10px;
+    cursor: none;
+    font-family: monospace;
+    
+}
